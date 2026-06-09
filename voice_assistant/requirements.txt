@@ -1,0 +1,11 @@
+# ============================================================
+#  requirements.txt  –  JARVIS Voice Assistant
+#  Install with:  pip install -r requirements.txt
+# ============================================================
+
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+requests==2.31.0
+wikipedia==1.4.0
+pyjokes==0.6.0
+PyAudio==0.2.14        # Windows/Mac: may need extra steps (see README)
