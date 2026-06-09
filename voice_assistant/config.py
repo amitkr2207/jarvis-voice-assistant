@@ -9,11 +9,11 @@ WAKE_WORD      = "jarvis"          # say this to wake the assistant
 
 # ── OpenWeatherMap ──────────────────────────────────────────
 # Get a free key at: https://openweathermap.org/api
-WEATHER_API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
+WEATHER_API_KEY = "eb149396c3abab70a6cbbf548d40832e"
 
 # ── NewsAPI ─────────────────────────────────────────────────
 # Get a free key at: https://newsapi.org/
-NEWS_API_KEY = "YOUR_NEWSAPI_KEY"
+NEWS_API_KEY = "78304d02ce2d4ca08b8973c9af4096df"
 
 # ── Email (Gmail) ───────────────────────────────────────────
 # For Gmail: enable "App Passwords" in your Google account
